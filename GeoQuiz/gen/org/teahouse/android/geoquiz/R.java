@@ -1651,12 +1651,13 @@ containing a value of this type.
         public static final int action_mode_bar=0x7f090030;
         public static final int action_mode_bar_stub=0x7f09002f;
         public static final int action_mode_close_button=0x7f090022;
-        public static final int action_settings=0x7f090048;
+        public static final int action_settings=0x7f090049;
         public static final int activity_chooser_view_content=0x7f090023;
         public static final int always=0x7f090014;
         public static final int answerTextView=0x7f090041;
         public static final int beginning=0x7f09001b;
         public static final int bottom=0x7f09001e;
+        public static final int cheat_button=0x7f090046;
         public static final int checkbox=0x7f09002b;
         public static final int collapseActionView=0x7f090015;
         public static final int decor_content_parent=0x7f090031;
@@ -1678,10 +1679,10 @@ containing a value of this type.
         public static final int list_item=0x7f090027;
         public static final int middle=0x7f09001d;
         public static final int never=0x7f090017;
-        public static final int next_button=0x7f090047;
+        public static final int next_button=0x7f090048;
         public static final int none=0x7f09000f;
         public static final int normal=0x7f09000b;
-        public static final int prev_button=0x7f090046;
+        public static final int prev_button=0x7f090047;
         public static final int progress_circular=0x7f090007;
         public static final int progress_horizontal=0x7f090008;
         public static final int question_text_view=0x7f090043;
@@ -1824,10 +1825,11 @@ containing a value of this type.
         public static final int abc_shareactionprovider_share_with_application=0x7f0a000d;
         public static final int action_settings=0x7f0a0011;
         public static final int app_name=0x7f0a000f;
+        public static final int cheat_button=0x7f0a001d;
         public static final int correct_toast=0x7f0a0014;
         public static final int false_button=0x7f0a0013;
         public static final int incorrect_toast=0x7f0a0015;
-        public static final int judgment_toast=0x7f0a001f;
+        public static final int judgment_toast=0x7f0a0020;
         public static final int menu_settings=0x7f0a0010;
         public static final int next_button=0x7f0a0016;
         public static final int prev_button=0x7f0a0017;
@@ -1836,9 +1838,9 @@ containing a value of this type.
         public static final int question_asia=0x7f0a001c;
         public static final int question_mideast=0x7f0a0019;
         public static final int question_oceans=0x7f0a0018;
-        public static final int show_answer_button=0x7f0a001e;
+        public static final int show_answer_button=0x7f0a001f;
         public static final int true_button=0x7f0a0012;
-        public static final int warning_text=0x7f0a001d;
+        public static final int warning_text=0x7f0a001e;
     }
     public static final class style {
         /** 
